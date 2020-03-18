@@ -1,0 +1,4 @@
+{
+    "Content_Security_Policy_Report_Only": "<Insert you policy here> report-uri https://www.yoursite.com/.well-known/csp_reporting",
+    "inject_headers": true
+}
